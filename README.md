@@ -107,19 +107,6 @@ The bar across the top of the gameplay screen does two separate jobs:
 
 Your time and the level's best record are shown on the Level Complete screen, and the whole table is on the **RECORDS** page from the main menu.
 
-## Screenshots
-
-### Main Menu
-<img src="screenshots/menu.png" width="640">
-
-### Gameplay
-<img src="screenshots/gameplay.png" width="640">
-
-### Level Complete
-<img src="screenshots/level_complete.png" width="640">
-
-### Records
-<img src="screenshots/records.png" width="640">
 
 ## Project Structure
 
