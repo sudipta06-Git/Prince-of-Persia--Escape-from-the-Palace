@@ -163,7 +163,7 @@ Proud students of **Ahsanullah University of Science and Technology**, Departmen
 
 ## Youtube Link
 
-[CSE 1200 Project: Prince of Persia - Escape from the Palace](https://www.youtube.com/)
+[CSE 1200 Project: Prince of Persia - Escape from the Palace](https://www.youtube.com/@sudiptaroy6821)
 
 ## Project Report
 
